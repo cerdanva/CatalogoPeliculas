@@ -11,6 +11,7 @@ package mx.com.gm.peliculas.domain;
  */
 public class Pelicula {
     private String nombre;
+    private String clasificacion;
 
     public Pelicula() {
     }
